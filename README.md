@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heraldo Arman</h1>
 <h3 align="center">I'm a first year undergraduate student who is currently enrolled as a bachelors student at University of Indonesia, majoring in Computer Science</h3>
 
-- 🌱 I’m currently learning **Python, Go, Rust, Flutter**
+- 🌱 I’m currently learning **Python, Go, Java, Flutter**
 
 - 📫 How to reach me **heraldoarman7@gmail.com**
 
