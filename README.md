@@ -49,9 +49,9 @@
         </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=heraldoarman&show_icons=true&locale=en&layout=compact"
+        src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
         alt="heraldoarman" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=heraldoarman&show_icons=true&locale=en"
+        src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true"
         alt="heraldoarman" /></p>
