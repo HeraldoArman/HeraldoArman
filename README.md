@@ -49,9 +49,9 @@
         </p>
 
 <p><img align="left"
-        src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=outrun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
         alt="heraldoarman" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true"
+        src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=outrun&show_icons=true&hide_border=true&layout=compact&count_private=true"
         alt="heraldoarman" /></p>
