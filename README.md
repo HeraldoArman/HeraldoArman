@@ -47,11 +47,14 @@
                 src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"
                 alt="next.js" width="40" height="40" /> </a>
         </p>
-
 <p><img align="left"
-        src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=outrun&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=outrun&show_icons=false&hide_border=false&include_all_commits=true&count_private=true"
+        alt="heraldoarman" /></p>
+<p><img align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=heraldoarman&theme=outrun&hide_border=false"
+        alt="heraldoarman" /></p>
+<p>&nbsp;<img align="center"
+        src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=outrun&show_icons=true&hide_border=false&layout=compact&count_private=true"
         alt="heraldoarman" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=outrun&show_icons=true&hide_border=true&layout=compact&count_private=true"
-        alt="heraldoarman" /></p>
+        
