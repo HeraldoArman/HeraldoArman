@@ -25,28 +25,6 @@
 
 ---
 
-<h3 align="left">🏆 Awards</h3>
-
-- **Top 5 Winner (20M IDR Seed Grant), RISTEK Hackathon 2026** — 5-day “Tech for Good” hackathon at Universitas Indonesia; advanced to UI Incubate.
-- **3rd Place, HackSphere 2025 (COMPSPHERE)** — national 48-hour hackathon; built **RailGuard**, real-time crowd monitoring for KRL station security.
-- **3rd Place, Education & Equity Track, GarudaHacks 6.0** — built **Ngerti.In**, a real-time AI tutoring platform.
-- **2nd Winner, Newbie Cup Business Plan Competition 2024**.
-- **Finalist, BIST League 6.0 IT Business Case Competition** (STEI ITB).
-- **Top 20, Creativity Contest, Telkom University 2023**.
-
----
-
-<h3 align="left">🛠️ Featured Projects</h3>
-
-- **Memora** — wearable AI assistant for dementia care: ESP32-S3 streams camera/audio via LiveKit to a FastAPI backend doing face recognition, scene understanding, and speech transcription; persistent Memory OS (FAISS + Neo4j + PostgreSQL) with Gemini reasoning and a multi-caregiver dashboard.
-- **COMPFEST 18 Platform** — 13 services and repositories serving **13,000+ registered users** and **110,000+ unique visitors**; 8,000+ unique visitors and 6,400+ submissions in a single peak day on a 4 vCPU instance (NestJS, Fastify, Drizzle, PostgreSQL, Redis, Next.js).
-- **RailGuard** — crowd-crush prevention for KRL stations: custom YOLO model counts passengers per gate from station CCTV and pushes density alerts to a Next.js PWA; local processing, aggregate-only upstream, offline push.
-- **Tuntun.In** — mobility companion for visually impaired pedestrians; chest-mounted phone streams live camera/audio to a cloud agent (Gemini Live reflex layer + Gemini Flash frame classification + LangChain).
-- **Yomu** — polyglot learning platform: Java/Spring Boot core with shadow-user sync over gRPC to a Rust/Axum gamification engine.
-- **Hallo Stroke** — multi-university research app for stroke survivors and caregivers (Go/Fiber, React, WhatsApp integration).
-
----
-
 <p align="left">
   <b>Languages:</b><br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
