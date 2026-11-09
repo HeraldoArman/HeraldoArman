@@ -157,23 +157,42 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p>
+<p align="center">
   <img
     src="https://githubstat-rust.vercel.app/api?username=heraldoarman&theme=outrun&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"
-    alt="heraldoarman"
+    alt="heraldoarman's GitHub stats"
+    height="180"
+  />
+  <img
+    src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=outrun&show_icons=true&hide_border=false&layout=compact&count_private=true&langs_count=8"
+    alt="heraldoarman's top languages"
+    height="180"
   />
 </p>
 
-<p>
+<p align="center">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=heraldoarman&theme=outrun&hide_border=false"
-    alt="heraldoarman"
+    alt="heraldoarman's GitHub streak"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    src="https://githubstat-rust.vercel.app/api/top-langs/?username=heraldoarman&theme=outrun&show_icons=true&hide_border=false&layout=compact&count_private=true"
-    alt="heraldoarman"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heraldoarman&theme=2077"
+    alt="heraldoarman's profile summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heraldoarman&theme=2077&utcOffset=7"
+    alt="heraldoarman's productive time"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heraldoarman&theme=2077"
+    alt="heraldoarman's most committed languages"
+    height="180"
   />
 </p>
