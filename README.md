@@ -15,16 +15,6 @@
   Currently building an AI smart-glasses startup and leading engineering for student-run platforms at UI.
 </p>
 
----
-
-<h3 align="left">🚀 Current Focus</h3>
-
-- 🧠 Co-founding **Memora**, an AI smart-glasses assistant for dementia care
-- 🛠️ Leading **12 engineers** across 13 services as VPIC of Software Engineering, **COMPFEST 18**
-- 🤝 Open to collaboration on **open-source, hackathons, and applied AI projects**
-
----
-
 <p align="left">
   <b>Languages:</b><br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
