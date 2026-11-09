@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  I ship production software end to end: backend, distributed systems, and applied AI.<br/>
-  Currently building an AI smart-glasses startup and leading engineering for student-run platforms at UI.
+  I ship production software end to end: backend, distributed systems, and applied AI.
 </p>
 
 <p align="left">
